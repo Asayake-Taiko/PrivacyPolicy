@@ -8,7 +8,7 @@ This Privacy Notice for Dougu ("we," "us," or "our"), describes how and why we m
 - Use Dougu. A mobile app designed to simplify equipment transfers and management for small groups. Intended to utilize drag and drop functionality to easily swap and keep track of equipment.
 - Engage with us in other related ways, including any sales, marketing, or events.
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at kal036@ucsd.edu.
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at dougu.app@gmail.com.
 
 ## SUMMARY OF KEY POINTS
 
@@ -105,7 +105,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
 - **Account Information:** If you would like to review or change the information in your account or terminate your account, you can log in to your account settings and update your user account. Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases.
 
-If you have questions or comments about your privacy rights, you may email us at kal036@ucsd.edu.
+If you have questions or comments about your privacy rights, you may email us at dougu.app@gmail.com.
 
 ## 6. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -179,7 +179,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 **How to Exercise Your Rights**
 
-To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/d1835b59-24ba-4d32-bff2-d78cd406508f), by emailing us at kal036@ucsd.edu, or by referring to the contact details at the bottom of this document.
+To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/notify/d1835b59-24ba-4d32-bff2-d78cd406508f), by emailing us at dougu.app@gmail.com, or by referring to the contact details at the bottom of this document.
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
 
@@ -191,7 +191,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 **Appeals**
 
-Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at kal036@ucsd.edu. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at dougu.app@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
 
 **California "Shine The Light" Law**
 
@@ -205,8 +205,8 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), by email at kal036@ucsd.edu.
+If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), by email at dougu.app@gmail.com.
 
 ## 10. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/d1835b59-24ba-4d32-bff2-d78cd406508f).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit check out [deleteData.md](./deleteData.md)
